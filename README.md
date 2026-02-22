@@ -131,7 +131,7 @@ A production-ready, self-hosted AI coding assistant with RAG, safety filters, pe
 ### [Influ UI](https://github.com/arhanjunaid/influ-ui) — Influencer Marketing Platform
 Full-featured frontend for a marketplace connecting brands with content creators across India. Multi-role auth, campaign lifecycle management, AI-powered influencer discovery, and Razorpay-backed escrow payments.
 
-`Next.js 14` `TypeScript` `Tailwind CSS` `Framer Motion` `React Hook Form` `Zod`
+`Next.js 16+` `TypeScript` `Tailwind CSS` `Framer Motion` `React Hook Form` `Zod`
 
 > Role-based access (Brand / Influencer / Agency / Admin) · Real-time messaging · Analytics dashboard
 
@@ -149,7 +149,7 @@ Web-based DICOM viewer integrated with the Orthanc PACS server. High-performance
 ### [Student Forum](https://github.com/arhanjunaid/student-forum) — Academic Community Platform
 Next.js discussion platform for academic communities, built with a modern component system and dark-mode support.
 
-`Next.js 14` `TypeScript` `HeroUI` `Tailwind CSS` `Framer Motion`
+`Next.js 16+` `TypeScript` `HeroUI` `Tailwind CSS` `Framer Motion`
 
 ---
 
